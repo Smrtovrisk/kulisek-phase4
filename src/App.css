@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+.exam-container,
+.dashboard-container {
+    padding: 20px;
+}
+
+.exam-title,
+.dashboard-title {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.question-container,
+.result-container {
+    margin-bottom: 15px;
+}
+
+.question-text,
+.user-answer {
+    margin-bottom: 5px;
+}
+
+.submit-button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+}

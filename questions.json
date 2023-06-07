@@ -1,0 +1,26 @@
+{
+    "questions":[
+        {"qid":1,"question":"5+6","ans1":"8","ans2":"11","ans3":"10","ans4":"9"},
+        {"qid":2,"question":"What is react js","ans1":"programming language","ans2":"javascript library ","ans3":"javascript framework","ans4":"java framework"},
+        {"qid":3,"question":"What is the capital of France","ans1":"Paris","ans2":"Berlin","ans3":"Madrid","ans4":"London"},
+        {"qid":4,"question":"Who wrote the novel '1984'","ans1":"J.K. Rowling","ans2":"George Orwell","ans3":"Mark Twain","ans4":"Charles Dickens"},
+        {"qid":5,"question":"Which gas is most prevalent in Earth's atmosphere","ans1":"Oxygen","ans2":"Hydrogen","ans3":"Carbon Dioxide","ans4":"Nitrogen"},
+        {"qid":6,"question":"What is the square root of 81","ans1":"7","ans2":"8","ans3":"9","ans4":"10"},
+        {"qid":7,"question":"Who developed the theory of relativity","ans1":"Sir Isaac Newton","ans2":"Albert Einstein","ans3":"Thomas Edison","ans4":"Nikola Tesla"},
+        {"qid":8,"question":"What is the chemical symbol for gold","ans1":"Ga","ans2":"Gd","ans3":"Au","ans4":"Ag"},
+        {"qid":9,"question":"Which language is primarily used for Android app development","ans1":"Python","ans2":"Swift","ans3":"Java","ans4":"C#"},
+        {"qid":10,"question":"What is the value of Pi (approx)","ans1":"2.14","ans2":"3.141","ans3":"3.13","ans4":"4.13"}
+    ],
+    "answers":[
+        {"qid":1,"correctAns":"11"},
+        {"qid":2,"correctAns":"javascript library "},
+        {"qid":3,"correctAns":"Paris"},
+        {"qid":4,"correctAns":"George Orwell"},
+        {"qid":5,"correctAns":"Nitrogen"},
+        {"qid":6,"correctAns":"9"},
+        {"qid":7,"correctAns":"Albert Einstein"},
+        {"qid":8,"correctAns":"Au"},
+        {"qid":9,"correctAns":"Java"},
+        {"qid":10,"correctAns":"3.141"}
+    ]
+}

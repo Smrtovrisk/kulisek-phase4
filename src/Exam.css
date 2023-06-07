@@ -1,0 +1,10 @@
+.exam-container {
+    background: linear-gradient(to bottom, #F5F7FA, #dae1ec);
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.1);
+}
+
+.exam-container h2 {
+    text-align: center;
+}
